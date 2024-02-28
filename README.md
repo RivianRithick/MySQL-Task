@@ -7,11 +7,11 @@ For additional SQL exercises and learning resources, you can also visit [SQLBolt
 
 
 ## EXERCISE-1
-![EXCERSISE-1](/Exercise-1.png)
+![EXCERSISE-1](/1.png)
 
  ----
 ## EXERCISE-2
-![EXCERSISE-2](/Exercise-2.png)
+![EXCERSISE-2](/2.png)
 
  ----
 ## EXERCISE-3
